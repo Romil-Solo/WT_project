@@ -1,3 +1,3 @@
 # WT_project
-My First Repository. \n
+My First Repository.
 Hello! I am Romil.
